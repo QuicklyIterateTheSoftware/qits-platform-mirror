@@ -30,7 +30,7 @@
          See the qits.auth-core.version property below. -->
     <groupId>eu.wohlben.qits</groupId>
     <artifactId>qits-platform-mirror</artifactId>
-    <version>2026.906.182551</version>
+    <version>2026.907.95725</version>
     <packaging>quarkus</packaging>
     <name>qits-platform-mirror</name>
 
